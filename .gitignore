@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Datos (no subir a GitHub)
+src/data/*.csv
+*.csv
+*.xlsx
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
