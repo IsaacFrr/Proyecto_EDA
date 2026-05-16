@@ -3,12 +3,6 @@ venv/
 .venv/
 env/
 
-# Datos (no subir a GitHub)
-src/data/*.csv
-*.csv
-*.xlsx
-*.zip
-
 # Jupyter
 .ipynb_checkpoints/
 
